@@ -148,7 +148,7 @@ async def remove_username(new_List):
 async def addFooter(str):
     footer = """
 ━━━━━━━━━━━━━━━
-ʜᴏᴡ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ Get Tuts On [SUPPORT](https://t.me/KOT_REPORS). 
+ANY REPORS [SUPPORT](https://t.me/KOT_REPORS). 
 ━━━━━━━━━━━━━━━
 📢 𝐉𝐨𝐢𝐧 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
