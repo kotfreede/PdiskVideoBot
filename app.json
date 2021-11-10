@@ -6,9 +6,9 @@
         "pdisk",
         "shortner"
     ],
-    "website": "https://github.com/PredatorHackerzZ/PdiskVideoBot/",
-    "repository": "https://github.com/PredatorHackerzZ/PdiskVideoBot/",
-    "logo": "https://telegra.ph/file/51a84cdd8254ee0406683.jpg", 
+    "website": "https://github.com/kotfreede/PdiskVideoBot/",
+    "repository": "https://github.com/kotfreede/PdiskVideoBot/",
+    "logo": "https://telegra.ph/file/94b0207fe12540dd68b08.jpg", 
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token (must add)",
@@ -28,11 +28,11 @@
         },
         "CHANNEL": {
             "description": "Enter your telegram channel Username (must change and without @)",
-            "value": "TheTeleRoid"
+            "value": "KOTBOTS"
         },
         "THUMB_URL": {
             "description": "Enter the permanent thumbnail image url can use this @TeleRoid_Image2Link_BOT",
-            "value" : "https://telegra.ph/file/51a84cdd8254ee0406683.jpg"
+            "value" : "https://telegra.ph/file/94b0207fe12540dd68b08.jpg"
         }
     },
     "addons": [],
